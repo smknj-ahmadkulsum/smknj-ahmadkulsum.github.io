@@ -1,0 +1,35 @@
+section {
+  padding-top: 8rem;
+}
+#education {
+  background-color: #212529;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e3e3e3;
+}
+#project {
+  background-color: #e3e3e3;
+}
+#contact {
+  background-color: #212529;
+}
+#more1 {
+  display: none;
+}
+#more2 {
+  display: none;
+}
+#more3 {
+  display: none;
+}
+#more4 {
+  display: none;
+}
+tr:hover {
+  background-color: white;
+  color: #212529;
+}
+td {
+  text-align: left;
+}
